@@ -79,19 +79,7 @@ I'm a B.Tech student and aspiring **Full Stack Developer**. I enjoy building pra
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ram399613&theme=dark&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ram399613&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=FFFFFF" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ram399613&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1" />
+  <img src="https://streak-stats.demolab.com/?user=ram399613&theme=dark&hide_border=true&background=0D1117&stroke=00FF7F&ring=00FF7F&fire=00FF7F&currStreakLabel=00FF7F" />
 </p>
 
 ---
