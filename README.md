@@ -83,7 +83,7 @@ I'm a B.Tech student and aspiring **Full Stack Developer**. I enjoy building pra
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ram399613&theme=react-dark&hide_border=true&bg_color=0d1117&color=00FF7F&line=00FF7F&point=ffffff" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=ram399613&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF7F&line=00FF7F&point=FFFFFF" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ I'm a B.Tech student and aspiring **Full Stack Developer**. I enjoy building pra
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ram399613&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ram399613&theme=onedark&no-frame=true&no-bg=false&margin-w=10&row=1" />
 </p>
 
 ---
