@@ -91,6 +91,16 @@ Currently focused on **improving my development and problem-solving skills** by 
 
 *Coming soon! Check out my repositories below for recent work* 👇
 
+<!-- You can add your projects here in this format:
+
+### 🔹 [Project Name](https://github.com/ram399613/project-name)
+**Description:** Brief description of what your project does and the tech stack used.
+- Built with: React, Node.js, MongoDB
+- Features: Feature 1, Feature 2, Feature 3
+- Live Demo: [Link](#) | Repository: [GitHub](https://github.com/ram399613/project-name)
+
+-->
+
 ---
 
 ## 📫 Let's Connect!
@@ -100,7 +110,7 @@ I'm always open to discussing new projects, opportunities, and ideas. Feel free 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ram399613)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
